@@ -1,0 +1,5 @@
+Nama: Yessy Candrika
+
+Role / Job Desk / Work Description:
+Anggota tim yang bertugas membantu pengembangan proyek,
+mengelola file, serta melakukan commit dan push ke GitHub.
