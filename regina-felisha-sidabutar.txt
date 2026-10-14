@@ -1,0 +1,4 @@
+Nama: Regina Felisha Sidabutar
+
+Role / Job Desk / Work Description:
+Anggota tim yang bertugas membantu pengembangan proyek, mengelola file, serta melakukan commit, pull, dan push ke GitHub.
